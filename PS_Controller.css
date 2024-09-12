@@ -637,6 +637,7 @@
 	font-weight: 700;
 	width: 75%;
 	transition: .2s;
+    color : #333333;
 }
 
 .login__input:active,
